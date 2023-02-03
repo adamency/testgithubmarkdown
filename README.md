@@ -7,7 +7,7 @@ Collections of scripts for manipulating Azure resources programmatically
 
 ### Legend
 
-$${\scriptsize \color{orange}\text{script_name}$$
+$${\scriptsize \color{orange}script_name$$
 
 With `<script_name>` the base name of a script:
 
